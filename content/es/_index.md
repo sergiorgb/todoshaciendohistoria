@@ -9,7 +9,7 @@ header_use_video: false
 header_logo: "images/logo.svg"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Fundacion Todos Haciendo Historia"
+header_headline: "Fundación Todos Haciendo Historia"
 header_subheadline: "<b>Construyendo</b> un mejor futuro a través de la <b>comunidad</b>"
 
 # Add a 'Go back to top' item to the navigation menu
