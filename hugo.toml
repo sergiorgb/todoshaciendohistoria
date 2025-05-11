@@ -76,14 +76,14 @@ enableEmoji = true
 
     [[params.contacts]]
         label = "Teléfono"
-        value = "+34 123 456 789"
-        url = "tel:+34 123 456 789"
+        value = "+57 301 386 3571"
+        url = "tel:+57 301 386 3571"
         icon = "fa fa-phone"
 
     [[params.contacts]]
         label = "Correo Electrónico"
-        value = "contacto@todoshaciendohistoria.org"
-        url = "mailto:contacto@todoshaciendohistoria.org"
+        value = "fundaciontodoshaciendohistoria@gmail.com"
+        url = "mailto:fundaciontodoshaciendohistoria@gmail.com"
         icon = "fa fa-envelope"
 
     # Add additional contacts here!
