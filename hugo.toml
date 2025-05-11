@@ -9,7 +9,7 @@ defaultContentLanguage = "es"
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "Todos Haciendo Historia ONG"
+title = "Fundación Todos Haciendo Historia"
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
@@ -37,7 +37,7 @@ enableEmoji = true
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Todos Haciendo Historia ONG"
+    title = "Fundación Todos Haciendo Historia"
 
     # The "description" of your website. This is used in the meta data of your generated html.
     description = "Una fundación dedicada a preservar la historia y fortalecer las comunidades."
@@ -51,7 +51,7 @@ enableEmoji = true
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "© Todos Haciendo Historia ONG"
+    copyright = "© Fundación Todos Haciendo Historia"
 
 
     # The sections of the home page alternate styling. Mark invert as true to swap the styling of the sections
@@ -61,7 +61,7 @@ enableEmoji = true
     image_options = "webp q90 lanczos photo"
 
     # Use "page_title | site_title" for <title> tags
-    # e.g. <title>Legal | Todos Haciendo Historia ONG</title>
+    # e.g. <title>Legal | Todos Haciendo Historia </title>
     combine_page_and_site_title = false
 
     [params.footer]

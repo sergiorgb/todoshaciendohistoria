@@ -1,6 +1,6 @@
 ---
-title: "Externo"
+title: "Galeria"
 weight: 99
 header_menu: true
-external: https://google.com
+external: /galeria/
 ---
