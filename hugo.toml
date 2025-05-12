@@ -76,10 +76,24 @@ enableEmoji = true
 
     [[params.contacts]]
         label = "Teléfono"
-        value = "+57 301 386 3571"
-        url = "tel:+57 301 386 3571"
+        value = "+57 300 600 2733"
+        url = "tel:+57 300 600 2733"
         icon = "fa fa-phone"
-
+    [[params.contacts]]
+        label = "Instagram"
+        value = "@todos_haciendohistoria"
+        url = "https://www.instagram.com/todos_haciendohistoria"
+        icon = "fab fa-instagram"
+    [[params.contacts]]
+        label = "Facebook"
+        value = "Fundación Todos Haciendo Historia"
+        url = "https://www.facebook.com/people/Fundaci%C3%B3n-Todos-Haciendo-Historia/61558847575379/"
+        icon = "fab fa-facebook"
+    [[params.contacts]]
+        label = "Tiktok"
+        value = "@todos.haciendohistoria"
+        url = "https://www.tiktok.com/@todos.haciendohistoria"
+        icon = "fab fa-tiktok"
     [[params.contacts]]
         label = "Correo Electrónico"
         value = "fundaciontodoshaciendohistoria@gmail.com"
