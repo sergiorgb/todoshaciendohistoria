@@ -10,7 +10,7 @@ header_logo: "images/logo.svg"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "Fundación Todos Haciendo Historia"
-header_subheadline: "<b>Construyendo</b> un mejor futuro a través de la <b>comunidad</b>"
+header_subheadline: "El Hijo del Hombre no vino para ser servido, sino para servir, y para dar su vida en rescate por muchos."
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry

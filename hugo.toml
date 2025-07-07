@@ -99,15 +99,12 @@ enableEmoji = true
         value = "fundaciontodoshaciendohistoria@gmail.com"
         url = "mailto:fundaciontodoshaciendohistoria@gmail.com"
         icon = "fa fa-envelope"
+    [[params.contacts]]
+        label = "Direccion"
+        value = "Cl. 52a Sur #77v-68"
+        url = "https://maps.app.goo.gl/C7z316V1ZDHzbXzU7"
+        icon = "fa fa-location-dot"
 
-    # Add additional contacts here!
-    # [[params.contacts]]
-    #     label = ""
-    #     value = ""
-    #     url = ""
-    #     icon = ""
-
-# Define additional languages
 [languages]
   [languages.es]
     weight = 10
